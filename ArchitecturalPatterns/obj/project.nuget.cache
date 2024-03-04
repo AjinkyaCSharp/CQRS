@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "jBY/vcShCvO/MkKL6Eiv/QKmCFPwDSzBK3wTdgryC50iVHc0HpNMuR2DjTPAJW/0Dm/L62FA0yl489xf7+S93g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LELE\\OneDrive - DevOn India-NL BV\\Assignment\\ArchitecturalPatterns\\ArchitecturalPatterns.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LELE\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\LELE\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\LELE\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
